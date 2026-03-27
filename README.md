@@ -9,9 +9,9 @@
 
 ## 🚀 About Me  
 🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Researcher**  
-🔹 Expert in **Web, Mobile (Android/iOS), Network Security, and Red Teaming**  
+🔹 Expert in **Web, API, Mobile (Android/iOS), Network Security, and Red Teaming**  
 🔹 Passionate about **Breaking the Security**  
-🔹 Strong skills in **OSINT, Offensive Hacking**  
+🔹 Strong skills in **OSINT & Offensive Hacking**  
 
 ---
 
@@ -23,7 +23,7 @@
 🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
 
 🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+🔑 **Encryption & Hashing:** OpenSSL
 📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
 🌍 **Cloud Security:** AWS Security  
 
