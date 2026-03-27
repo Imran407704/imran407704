@@ -1,6 +1,70 @@
-# 💫 About Me:
-I'm a Penetration Tester with 3.3+ years of hands-on experience conducting Web, Android, iOS, and API security assessments currently at ANB Solutions, a CERT-In empanelled firm operating across 6 countries and 1,000+ professionals globally.<br>My work spans the full VAPT lifecycle: scoping, reconnaissance, exploitation, lateral movement simulation, and detailed remediation reporting for clients across BFSI, Telecom, and enterprise sectors. I've identified vulnerabilities ranging from OWASP Top 10 weaknesses to complex logic flaws, including exploits in real-world platforms.<br>I hold the CRTP, CRTA, MCRTA, CAP certification's and my #Learn365 initiative 365 days of continuous public security research reflects my commitment to staying ahead of an evolving threat landscape.<br>I'm proficient in industry-standard tooling including Burp Suite, Metasploit, OWASP ZAP, Nessus, Nmap, Frida and Objection for web and mobile assessments. I also bring experience with red team methodologies, WAF bypass techniques, and MFA/2FA vulnerability analysis.<br>
+<h1 align="center">🛡️ Imran Shaikh - Penetration Tester & Ethical Hacker 🔐</h1>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtzamprbjZzejFsdmhrOXBuY3Nydm9mMWJxMGl1b2JrOXp2MG5tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40%"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imran407704) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@imran407704) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imran407704) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybersecops7146) 
+---
+
+## 🚀 About Me  
+🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Researcher**  
+🔹 Expert in **Web, Mobile (Android/iOS), Network Security, and Red Teaming**  
+🔹 Passionate about **Breaking the Security**  
+🔹 Strong skills in **OSINT, Offensive Hacking**  
+
+---
+
+## 🏴‍☠️ Skills & Expertise  
+
+🎯 **Offensive Security (Red Team)**  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
+🔍 **Web & API Security:** OWASP ZAP, Nikto, FFuF  
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
+
+🛠️ **Cryptography & Secure Development**  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
+🌍 **Cloud Security:** AWS Security  
+
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+
+---
+
+## 🔧 Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,docker,github,gitlab" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://x.com/technosnag"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/technosnag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/c/technosnag"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="mailto:technosnag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 🎯 Fun Fact  
+> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+
+---
+
+🔥 **Want to Collaborate?**  
+If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  
+
