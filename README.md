@@ -1,35 +1,21 @@
-<h1 align="center"></h1>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HEYA%20👋%20I%20am%20Imran%20Shaikh&center=true&size=30">
-  </a>
-</h1>
-
-<h3 align="center">Social engineering bypasses all technologies, including firewalls 🔥🔥🔥</h3>
+# 💫 About Me:
+I'm a Penetration Tester with 3.3+ years of hands-on experience conducting Web, Android, iOS, and API security assessments currently at ANB Solutions, a CERT-In empanelled firm operating across 6 countries and 1,000+ professionals globally.<br>My work spans the full VAPT lifecycle: scoping, reconnaissance, exploitation, lateral movement simulation, and detailed remediation reporting for clients across BFSI, Telecom, and enterprise sectors. I've identified vulnerabilities ranging from OWASP Top 10 weaknesses to complex logic flaws, including exploits in real-world platforms.<br>I hold the CRTP, CRTA, MCRTA, CAP certification's and my #Learn365 initiative 365 days of continuous public security research reflects my commitment to staying ahead of an evolving threat landscape.<br>I'm proficient in industry-standard tooling including Burp Suite, Metasploit, OWASP ZAP, Nessus, Nmap, Frida and Objection for web and mobile assessments. I also bring experience with red team methodologies, WAF bypass techniques, and MFA/2FA vulnerability analysis.<br>
 
 
-<h3 align="center">Let's Connect <img src="https://github.com/Imran407704/imran407704/blob/main/images/handshake.gif" height="32px"></h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/imran407704/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/imran407704" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.youtube.com/channel/UCpksfS6N1ZOVfZp2SC1eMpA"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Imran407704/imran407704/blob/main/images/youtube.svg"> YouTube</a></code>
-</h5>
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imran407704) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@imran407704) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imran407704) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cybersecops7146) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imran407704&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imran407704&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imran407704&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imran407704&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **bash & python**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imran407704&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **Capture The Flag, Bug Hunting & Cybersecurity Stuff**
+---
+[![](https://visitcount.itsvg.in/api?id=imran407704&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I think I am a MEMER**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran407704&show_icons=true&locale=en&layout=compact" alt="imran407704" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran407704&show_icons=true&locale=en" alt="imran407704" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran407704&" alt="imran407704" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
