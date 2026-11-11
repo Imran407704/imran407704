@@ -26,6 +26,11 @@ Break. Learn. Report. Repeat.
 
 I test web, API, Android and network surfaces. Then I write the finding so it can be fixed, not just filed.
 
+```console
+imran@kali:~$ cd ~/portfolio
+[200 OK] https://imran407704.github.io
+```
+
 <img src="./assets/divider.svg" alt="" width="100%">
 
 ## 02 // ARSENAL
@@ -82,6 +87,7 @@ imran@kali:~$ open https://www.youtube.com/@cybersecops7146
 
 | CHANNEL | ENDPOINT |
 | :--- | :--- |
+| `PORTFOLIO` | [imran407704.github.io](https://imran407704.github.io) |
 | `GITHUB` | [github.com/imran407704](https://github.com/imran407704) |
 | `X` | [x.com/imran407704](https://x.com/imran407704) |
 | `LINKEDIN` | [linkedin.com/in/imran407704](https://www.linkedin.com/in/imran407704/) |
