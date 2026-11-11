@@ -1,70 +1,92 @@
-<h1 align="center">🛡️ Imran Shaikh - Penetration Tester & Ethical Hacker 🔐</h1>
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtzamprbjZzejFsdmhrOXBuY3Nydm9mMWJxMGl1b2JrOXp2MG5tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40%"/>
+  <img src="./assets/hero.svg" alt="Imran Shaikh — penetration tester, bug hunter, cybersecurity researcher" width="100%">
 </p>
 
----
-
-## 🚀 About Me  
-🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Researcher**  
-🔹 Expert in **Web, API, Mobile (Android/iOS), Network Security, and Red Teaming**  
-🔹 Passionate about **Breaking the Security**  
-🔹 Strong skills in **OSINT & Offensive Hacking**  
-
----
-
-## 🏴‍☠️ Skills & Expertise  
-
-🎯 **Offensive Security (Red Team)**  
-💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
-🔍 **Web & API Security:** OWASP ZAP, Nikto, FFuF  
-🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
-
-🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL
-📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
-🌍 **Cloud Security:** AWS Security  
-
-📀 **Operating Systems & Networks**  
-🐧 **Linux:** Kali, Parrot OS, Ubuntu  
-🖥️ **Windows Security:** PowerShell
-🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
-
----
-
-## 🔧 Tools & Technologies  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,docker,github,gitlab" />
+<p align="left">
+  <code>STATUS: ONLINE</code>&nbsp;&nbsp;<code>NODE: 127.0.0.1</code>&nbsp;&nbsp;<code>CLEARANCE: AUTHORIZED</code>
 </p>
 
----
+<img src="./assets/divider.svg" alt="" width="100%">
 
-## 🌐 Connect With Me  
+## 01 // WHOAMI
 
-<p align="center">
-<a href="https://x.com/imran407704"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/imran407704/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@cybersecops7146"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
+```console
+imran@kali:~$ whoami
+Imran Shaikh
 
----
+imran@kali:~$ cat /etc/role
+Penetration Tester · Bug Hunter · Cybersecurity Researcher · YouTuber
 
-### 🎯 Fun Fact  
-> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+imran@kali:~$ cat /etc/focus
+Web · API · Android · Network Security · Red Teaming · OSINT
 
----
+imran@kali:~$ cat /etc/principle
+Break. Learn. Report. Repeat.
+```
 
-🔥 **Want to Collaborate?**  
-If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  
+I test web, API, Android and network surfaces. Then I write the finding so it can be fixed, not just filed.
 
-###
+<img src="./assets/divider.svg" alt="" width="100%">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=imran407704&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## 02 // ARSENAL
 
-###
+| VECTOR | TOOLKIT |
+| :--- | :--- |
+| `WEB` | `burpsuite` `sqlmap` `ffuf` `zap` `nikto` |
+| `RECON` | `subfinder` `amass` `gau` `waybackurls` `shodan` `maltego` `theHarvester` |
+| `NETWORK` | `nmap` `netcat` `wireshark` `aircrack-ng` |
+| `EXPLOIT` | `metasploit` `searchsploit` `msfvenom` |
+| `SYSTEM` | `kali` `parrot` `ubuntu` `windows` `powershell` |
+| `BUILD` | `python` `bash` `javascript` `docker` `aws` `git` |
 
+> All testing is performed against authorized targets only. No exceptions.
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 03 // PAYLOADS
+
+| ID | REPO | STACK | FUNCTION |
+| :--- | :--- | :--- | :--- |
+| `01` | [HostInjection](https://github.com/imran407704/HostInjection) | `python` | Host header injection and web cache poisoning scanner |
+| `02` | [Learn365](https://github.com/imran407704/Learn365) | `research` | Daily cybersecurity learning archive |
+| `03` | [passive-subd](https://github.com/imran407704/passive-subd) | `bash` | Passive subdomain enumeration automation |
+| `04` | [multi-urls](https://github.com/imran407704/multi-urls) | `bash` | Passive URL harvesting from gau, gauplus and waybackurls |
+| `05` | [archive](https://github.com/imran407704/archive) | `bash` | URL aggregation and archival automation |
+| `06` | [list-target](https://github.com/imran407704/list-target) | `bash` | Target wordlist generator for bug bounty |
+| `07` | [My-eJPT-Journey](https://github.com/imran407704/My-eJPT-Journey) | `notes` | eJPT exam preparation resources |
+
+[ `$` view all repositories → ](https://github.com/imran407704?tab=repositories)
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 04 // CONTRIBUTION TRACE
+
+<img src="./assets/contributions.svg" alt="Contribution trace for Imran Shaikh, last 365 days" width="100%">
+
+> Public signal only. Private work stays private.
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 05 // BROADCAST
+
+```console
+imran@kali:~$ open https://www.youtube.com/@cybersecops7146
+[BROADCAST] labs · tooling · bug bounty
+```
+
+[ `[ YouTube ]` @cybersecops7146 ](https://www.youtube.com/@cybersecops7146) — labs, tooling and the hunt, recorded.
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## 06 // UPLINKS
+
+| CHANNEL | ENDPOINT |
+| :--- | :--- |
+| `GITHUB` | [github.com/imran407704](https://github.com/imran407704) |
+| `X` | [x.com/imran407704](https://x.com/imran407704) |
+| `LINKEDIN` | [linkedin.com/in/imran407704](https://www.linkedin.com/in/imran407704/) |
+| `YOUTUBE` | [youtube.com/@cybersecops7146](https://www.youtube.com/@cybersecops7146) |
+
+> "The quieter you become, the more you are able to hear." — Kali Linux
+
+<img src="./assets/footer.svg" alt="Session terminated" width="100%">

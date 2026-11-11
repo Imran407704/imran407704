@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-label="Signal divider">
+  <style>
+    .track { stroke-dasharray: 2 10; animation: dash 3.2s linear infinite; }
+    .packet { animation: packet 5.4s linear infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    @keyframes packet { 0% { opacity: 0; } 8% { opacity: 1; } 92% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .track, .packet, .pulse { animation: none; } }
+  </style>
+
+  <rect x="24" y="4" width="1152" height="24" rx="4" fill="#050a07" stroke="#123b2a" stroke-width="1"/>
+  <rect x="34" y="14" width="6" height="6" fill="#00ff9c" class="pulse"/>
+  <text x="48" y="21" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="9" letter-spacing="2" fill="#5f8574">SIGNAL</text>
+  <line x1="112" y1="16" x2="1176" y2="16" stroke="#123b2a" stroke-width="1"/>
+  <line x1="112" y1="16" x2="1176" y2="16" stroke="#00ff9c" stroke-opacity=".32" stroke-width="1" class="track"/>
+  <text x="1176" y="21" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="9" letter-spacing="2" fill="#3f5c50">0x407704</text>
+
+  <circle r="2.6" fill="#00ff9c" class="packet">
+    <animateMotion dur="5.4s" repeatCount="indefinite" path="M112,16 H1176"/>
+  </circle>
+  <circle r="6" fill="none" stroke="#00ff9c" stroke-opacity=".35" class="packet">
+    <animateMotion dur="5.4s" repeatCount="indefinite" path="M112,16 H1176"/>
+  </circle>
+</svg>
